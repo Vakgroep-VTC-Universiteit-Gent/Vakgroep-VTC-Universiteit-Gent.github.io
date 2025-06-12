@@ -10,3 +10,9 @@ permalink: /resources/
 | --- | --- | --- | --- | --- | --- |
 | [Calculation of inter-annotation agreement](https://github.com/Vakgroep-VTC-Universiteit-Gent/ai-support-notebooks/tree/main/IAA) | This notebook takes you through the process of calculating inter-annotator agreement on your own dataset. | Dutch | Jasper Degraeuwe | Free |
 | [Introduction to word sense disambiguation](https://github.com/Vakgroep-VTC-Universiteit-Gent/ai-support-notebooks/tree/main/WSD) | This notebook provides an extensive, hands-on introduction to the computer-driven disambiguation of words with multiple possible meanings. | Dutch | Jasper Degraeuwe and Loic De Langhe | Free |
+
+## Webinar recordings
+
+| Resource | Description | Languages | Owners | Access |
+| --- | --- | --- | --- | --- | --- |
+| [Educational practices using AI](https://onderwijstips.ugent.be/nl/ugentpractices/?topics=30,&disciplines=&faculties=) | Recordings of "inspiration sessions" during which teachers and researchers affiliated with Ghent University explain how they use AI in their work | English (limited) and Dutch | Ghent University | Ghent University members only |

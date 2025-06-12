@@ -5,7 +5,7 @@
 layout: page
 ---
 
-*Last update: 28 May 2025*
+*Last update: 12 June 2025*
 
 For all those who sometimes thought to themselves "AI AI AI*, I'm starting to lose track of all these technological advances in the field of language learning": this page is for you. On this website, you will find an overview of the available technology-driven tools and resources that are being/can be used for language learning and/or teaching purposes. The overview is updated regularly, but should you come across an interesting tool/resource yourself, do not hesitate to share your discovery by sending an email to the address included at the bottom of this page.
 
