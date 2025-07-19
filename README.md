@@ -1,1 +1,3 @@
-# Vakgroep-VTC-Universiteit-Gent.github.io
+# Vakgroep VTC Universiteit Gent
+
+This website includes an overview of the available technology-driven tools and resources that are being/can be used for language learning and/or teaching purposes. The website is developed and maintained by the Ghent University Department of Translation, Interpreting and Communication (Vakgroep Vertalen, Tolken en Communicatie or "VTC" in short). Although the web space is primarily aimed at students and teachers affiliated with the VTC department, much of the information provided should also be useful for anyone in- or outside of academia who is involved in language learning/teaching.
