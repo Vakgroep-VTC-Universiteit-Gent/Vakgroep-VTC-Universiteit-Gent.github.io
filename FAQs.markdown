@@ -16,6 +16,12 @@ Thanks to an agreement with Microsoft, Ghent University can offer its members fr
 
 Yes, tools such as [NotebookLM](https://notebooklm.google/) (from Google) can perform this task reasonably to very well. Additionally, it is also possible to turn the task into a two-step process: first you use a tool that transcribes the spoken text into written text (e.g., [WhisperAI](https://whisperai.com/)) and secondly you use a tool that generates the summary based on the transcription (which can be done with any GenAI tool, basically). As with many tasks, the result will be best when the input language is English, but also for other languages the results are often more than decent.
 
+### Evaluation, exams, and testing in times of GenAI
+
+#### Restrict internet access during on-site evaluations on Ghent University computers?
+
+All information and documentation related to using computers with dedicated software that enables restricting internet access and monitoring screen activity is available on the [corresponding Intranet page](https://ugentbe.sharepoint.com/sites/intranet-ict/SitePages/en/NetSupport-School.aspx) (only accessible for Ghent University employees). It is recommended to go to the PC room of your choice and test the setup a few days before the evaluation takes place. Additional information on digital evaluation methods is presented in a [separate Intranet page](https://ugentbe.sharepoint.com/sites/intranet-ict/SitePages/Digitaal-toetsen.aspx).
+
 ### Policy on GenAI
 
 #### Faculty of Arts and Philosophy policy?
