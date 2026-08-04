@@ -48,6 +48,6 @@ Developing a prompt which results in an output message that exactly corresponds 
 	- [English info site for students](https://ufora.ugent.be/d2l/home/1086136)
 	- [English info site for teachers](https://ufora.ugent.be/d2l/home/1119621)
 2. The Faculty of Arts and Philosophy organises workshops that provide an extensive introduction to AI and make the concept of "responible AI use" more concrete by presenting dos and don'ts in the form of live demos
-	- [Workshops for students](https://event.ugent.be/registration/OndersteuningGenAILesgevers)
-	- [Workshops for teachers](https://event.ugent.be/registration/OndersteuningGenAIStudenten)
+	- Workshops for students (link for academic year 2026-2027 coming soon)
+	- Workshops for teachers (link for academic year 2026-2027 coming soon)
 3. On the [UTOP platform](https://unigent.plateau.com/learning/user/personal/landOnPortalHome.do) you can find additional workshops on GenAI organised at university level (**only for teachers**)
